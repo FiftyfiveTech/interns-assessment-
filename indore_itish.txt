@@ -1,0 +1,15 @@
+Hello,
+About me:-
+
+I am itish jain , i am a full stack developer proficient in mern stack developent , I am having 6+ months of internship experience and 2+ years of project experience projects which are in production right now
+
+one of my project is https://notesera.in  which is a community platform where more then 5000  college students from indore are learning  on monthly basis 
+
+i do know different languages apart from mern such as python core ,django(basic) and currently learning react native 
+i have also build multiple projects which has integrated payment gateways and docker support 
+
+apart from coding i love to social work  and play chess , i was a state coordinator of madhya pradesh in parashrya welfare foundation where i contribute in child education , women empowerment education
+
+i would love to work with all the 55team
+
+thank you 
